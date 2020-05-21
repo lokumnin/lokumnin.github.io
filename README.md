@@ -1,2 +1,2 @@
 # Lokumnin.github.io
-#lokumnin.github.io/index.html
+https://lokumnin.github.io/index.html
