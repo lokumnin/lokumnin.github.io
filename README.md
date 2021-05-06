@@ -1,2 +1,1 @@
-# Lokumnin.github.io
-https://lokumnin.github.io/index.html
+# [Lokumnin.github.io](https://lokumnin.github.io/index.html)
